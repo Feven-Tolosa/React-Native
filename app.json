@@ -14,8 +14,8 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/coffee-art.jpg",
-        "backgroundColor": "#000000",
-        "resizeMode": "cover"
+        "resizeMode": "cover",
+        "backgroundColor": "#000000"
       }
     },
     "web": {
